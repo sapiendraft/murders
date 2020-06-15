@@ -1,0 +1,7 @@
+We analyze US gun murder data collected by the fbi.
+
+download_data.R - downloads a csv file to data directory
+
+wrangle_data.R - creates a derived dataset and saves as R object in RDA directory
+
+analysis.R - generates a plot and saves it to the figs directory
